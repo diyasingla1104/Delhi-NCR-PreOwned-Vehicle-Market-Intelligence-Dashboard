@@ -29,6 +29,8 @@ This project analyzes the **pre-owned vehicle market in Delhi NCR** using Power 
 <img width="1640" height="983" alt="Screenshot 2026-04-01 113518" src="https://github.com/user-attachments/assets/29a3f987-d34d-46bc-94cc-a3a83b368c3c" />
 <img width="1605" height="910" alt="Screenshot 2026-03-18 111513" src="https://github.com/user-attachments/assets/c7a67dc5-dcf7-4b68-a857-81d9d3cb9261" />
 <img width="1375" height="797" alt="Screenshot 2026-02-25 124805" src="https://github.com/user-attachments/assets/2287eb0d-424b-4f1a-bb05-96d27c0c9085" />
+<img width="1586" height="895" alt="Screenshot 2026-04-01 114112" src="https://github.com/user-attachments/assets/db749b44-3f26-446a-ac6d-f2bdb51ab14d" />
+
 ## 🔹 How to Use
 1. Download the `.pbix` file
 2. Open it using Microsoft Power BI Desktop
